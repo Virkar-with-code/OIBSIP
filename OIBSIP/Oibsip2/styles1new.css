@@ -1,0 +1,29 @@
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 10;
+    padding: 10;
+}
+
+header {
+    background-color: #333;
+    color: #fff;
+    text-align: center;
+    padding: 1em;
+}
+
+.content {
+text-align: center;
+text-size-adjust: 10;
+
+    padding: auto;
+}
+
+img {
+    width: 30%;
+    height: 40%;
+    object-fit: cover;
+    aspect-ratio: 1/1;
+
+}
+
